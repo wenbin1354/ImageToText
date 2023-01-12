@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ImageToText/static/js/main.d34c313b.js",
+    "index.html": "/ImageToText/index.html",
+    "main.d34c313b.js.map": "/ImageToText/static/js/main.d34c313b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d34c313b.js"
+  ]
+}
